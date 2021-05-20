@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "mkdirp": "^0.5.1",
     "phantomjs": "^2.1.7",
     "puppeteer": "^1.14.0",
